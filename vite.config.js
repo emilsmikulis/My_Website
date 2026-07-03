@@ -6,7 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/', // Nomaini uz sava repozitorija nosaukumu!
+  base: './', // Nomaini uz sava repozitorija nosaukumu!
   plugins: [
     vue(),
     vueDevTools(),
