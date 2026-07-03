@@ -1,6 +1,6 @@
 <template>
     <div>
-      <h1>Shop lapa</h1>
-      <p>Laipni lūgti veikalā!</p>
+      <h1>Laipni lūgti manā veikalā!</h1>
+      <p>Drīzumā(~11/2026): Džemperi, t-krekli, zeķes, cepures </p>
     </div>
   </template>

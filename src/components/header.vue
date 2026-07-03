@@ -2,10 +2,10 @@
 <template>
   <nav class="navbar">
     <ul>
-      <li><RouterLink to="/">Home</RouterLink></li>
-      <li><RouterLink to="/about">About me</RouterLink></li>
-      <li><RouterLink to="/blog">Blog</RouterLink></li>
-      <li><RouterLink to="/shop">Shop</RouterLink></li>
+      <li><RouterLink to="/">{{ $t('home-button') }}</RouterLink></li>
+      <li><RouterLink to="/about">{{ $t('about-me-button') }}</RouterLink></li>
+      <li><RouterLink to="/blog">{{ $t('blog-button') }}</RouterLink></li>
+      <li><RouterLink to="/shop">{{ $t('shop-button') }}</RouterLink></li>
     </ul>
   </nav>
 
