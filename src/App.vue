@@ -28,3 +28,4 @@
 import Header from './components/header.vue'
 import Footer from './components/Footer.vue' // 1. Importējam
 </script>
+

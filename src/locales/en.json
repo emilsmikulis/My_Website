@@ -1,3 +1,27 @@
 {
-    "welcome": "Welcome to my website"
+    "welcome": "Welcome to my website",
+    "home-button": "Home",
+    "about-me-button":"About me",
+    "about-description": "Hello, my name is Emīls Mikulis and this is my personal website",
+    "blog-button":"Blog",
+    "shop-button":"Shop",
+
+
+
+    "about-name": "Emīls",
+    "about-age": "23 years old",
+    "about-bio": "born in Latvia",
+    "about-bio2": "I am student, programmer, political candidate",
+    "about-bio3": "I want to be scientist, entrepreneur, pilot, engineer, mechanic, politician and teacher in Dream university",
+    "about-interests": "Interests: Neuroscience, computer science, environmental science, medicine, rhetorics, engineering, politics",
+
+
+    "blog-description": "Currently empty, available only in Latvian",
+    
+    "shop-heading":"Welcome to my shop!",
+    "shop-description": "Coming soon(~11/2026): Hoodies, t-shirts, socks, hats",
+  
+    
+      "footer-copyright": "© 2026 Emīls Mikulis. All rights reserved."
+    
   }

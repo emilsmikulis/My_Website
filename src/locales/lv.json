@@ -2,8 +2,26 @@
     "welcome": "Laipni lūgti manā mājaslapā",
     "home-button": "Sākums",
     "about-me-button":"Par mani",
+    "about-description": "Čau, mani sauc Emīls Mikulis, Šo mājaslapu es esmu uztaisījis nesen, taču to noteikti brīvajā laikā apņemos uzlabot!",
     "blog-button":"Blogs",
-    "shop-button":"Veikals"
+    "shop-button":"Veikals",
+
+    "about-name": "Emīls",
+    "about-age": "23 gadi",
+    "about-bio": "Dzimis Preiļos, lielāko dzīves daļu nodzīvojis Līvānos, tad Rīgā",
+    "about-bio2": "Students, programmētājs, politiskais kandidāts",
+    "about-bio3": "vēlos būt zinātnieks, uzņēmējs, pilots,inženieris, mehāniķis, politiķis un skolotājs savā universitātē",
+    "about-interests": "Intereses: neirozinātne, datorzinātne, vides zinātne, medicīna, retorika, inženierija, politika",
+
+    "blog-description": "Laipni lūgti manā blogā! Pagaidām vēl nezinu, kā šis attīstīsies, bet domāju šo attīstīt sakarā ar jaunu-labāku sociālo tīklu uzbūvēšanu",
+
+    "shop-heading":"Laipni lūgti manā veikalā!",
+    "shop-description": "Drīzumā(~11/2026): Džemperi, t-krekli, zeķes, cepures ",
+  
+  
+
+    "footer-copyright": "© 2026 Emīls Mikulis. Visas tiesības aizsargātas."
   }
+
 
 

@@ -8,6 +8,7 @@ import lv from './locales/lv.json'
 const app = createApp(App)
 
 const i18n = createI18n({
+    legacy: false,
     locale: 'lv', // noklusējuma valoda
     messages: {
       en,

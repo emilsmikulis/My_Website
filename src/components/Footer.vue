@@ -1,6 +1,7 @@
 <template>
     <footer class="footer">
-      <p>© 2026 Mana lapa. Visas tiesības aizsargātas.</p>
+      
+      <p>{{ $t('footer-copyright') }}</p>
 
       <!-- Sociālo tīklu ikonu bloks -->
       <div class="social-icons">
